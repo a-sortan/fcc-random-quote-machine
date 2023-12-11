@@ -1,1 +1,3 @@
-# fcc-random-quote-machine
+# Random Quote Machine
+
+This is a simple implementation of freeCodeCamp project Random Quote Machine.
